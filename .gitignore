@@ -1,0 +1,9 @@
+/x64
+/libBmp/libBmp.vcxproj.filters
+/libBmp/libBmp.vcxproj.user
+/libBmp/x64
+/libBmpSample/x64
+/libBmpSample/sample2.bmp
+/.vs
+/libBmpSample/libBmpSample.vcxproj.filters
+/libBmpSample/libBmpSample.vcxproj.user
